@@ -1,47 +1,27 @@
-# Hi there, I'm Aviral 👋  
-
-🚀 **Aspiring Software Engineer | AWS DevOps Certified | Problem Solver**  
-
-I’m passionate about building scalable software systems, solving complex problems, and learning cutting-edge technologies. Currently, I’m preparing for SDE roles at top product-based companies and working on impactful projects.  
+<h1 align="center">Hi 👋, I'm Aviral</h1>
+<h3 align="center">Aspiring Software Engineer | AWS DevOps Certified | Problem Solver</h3>
 
 ---
 
-### 💻 Tech Stack
-- **Languages:** C++, Python, JavaScript, SQL  
-- **Frameworks & Tools:** Node.js, Express, Flask/Django, Selenium, Electron  
-- **Databases:** MongoDB, MySQL  
-- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, CI/CD  
-- **CS Fundamentals:** Data Structures & Algorithms, System Design, Computer Networks, DBMS, OS  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+making;Problem+Solver+%7C+DSA+%7C+System+Design;Cloud+%26+DevOps+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔨 Projects
-- 🔗 [**Custom URL Shortener**](#) – Built with Node.js, Express, MongoDB; supports click tracking and analytics.  
-- 🤖 **Web Automation Bot** – Python + Selenium bot that automates hotel search and scrapes the best deals.  
-- 📰 **Fake News Detector Web App** – Machine learning project that detects misinformation.  
-- 🌍 **Remote Desktop Control & Screen Sharing** – Client-server project using Electron, Node.js, and Socket.IO.  
-- 🏡 **House Price Prediction (Kaggle Competition)** – ML model predicting housing prices.  
+### 🔥 About Me
+- 💻 Building projects with **Node.js, Python, MongoDB, Selenium**  
+- ☁️ Certified in **AWS DevOps & Microsoft Azure AI-900**  
+- 🚀 Preparing for **FAANG-level interviews** (DSA + System Design)  
+- ✨ Motto: *"Chasing goals, not impressions."*  
 
 ---
 
-### 📜 Certifications
-- **Microsoft Azure AI-900 Certified** (AI Fundamentals)  
-- **AWS DevOps Certification**  
+### ⚡ Tech Stack
 
----
-
-### 📈 Current Focus
-- Preparing for **FAANG-level SDE interviews** (DSA + System Design)  
-- Building **system design–oriented projects**  
-- Enhancing **DevOps and cloud-native development** skills  
-
----
-
-### 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your-email@example.com  
-- 🐙 [GitHub](https://github.com/AviralMaheshwari)  
-
----
-
-⭐️ *"Chasing goals, not impressions."*  
+```yaml
+Languages:    C++, Python, JavaScript, SQL
+Frameworks:   Node.js, Express, Flask/Django, Selenium, Electron
+Databases:    MongoDB, MySQL
+Cloud/DevOps: AWS (EC2, S3, IAM), Docker, CI/CD
+Core CS:      DSA, System Design, DBMS, CN, OS
