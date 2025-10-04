@@ -40,8 +40,8 @@ I’m passionate about building scalable software systems, solving complex probl
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">💼 LinkedIn</a> • 
-  <a href="mailto:your-email@example.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/aviral-maheshwari-2a8127250/">💼 LinkedIn</a> • 
+  <a href="mailto:your-techaviral@gmail.com">📧 Email</a> • 
   <a href="https://github.com/AviralMaheshwari">🐙 GitHub</a>
 </p>
 
